@@ -1,6 +1,7 @@
 {
   "name": "KaziChap",
   "short_name": "KaziChap",
+  "description": "KaziChap is the fastest, most reliable platform connecting clients with skilled local service providers and freelancers in real-time. Whether you need urgent home repairs, technical assistance, cleaning services, or daily tasks handled fast, KaziChap bridges the gap between local demand and trusted service providers on demand.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
